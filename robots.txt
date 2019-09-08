@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooxooziquo.birkinfang.com/sitemap.xml
